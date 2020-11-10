@@ -41,6 +41,11 @@ input::-webkit-input-placeholder {
     font-family: 'Libre Franklin', sans-serif;
     font-weight: normal;
 }
+.embed-responsive-item{
+    width: 100% !important;
+    height: 438px !important;
+    background-color: white !important;"
+}
 .card{
     border: none !important;
 }
@@ -72,5 +77,21 @@ input::-webkit-input-placeholder {
     width: 20px;
     height: 20px;
     z-index: 2;
-
+}
+.mixturePhoto{
+    height: 37vh;
+    position: relative;
+    background: url('images/bodyPhoto/photomixture.jpg') no-repeat center center/cover;
+}
+.chosenProductInfo{
+    position: absolute;
+    top:28vh;
+    right: 35%;
+    z-index: 2;
+    color: red;
+    font-weight: 700;
+    border-bottom: 9px solid black;
+}
+.footerImg{
+    height: 30vh;
 }
