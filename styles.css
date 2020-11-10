@@ -41,11 +41,7 @@ input::-webkit-input-placeholder {
     font-family: 'Libre Franklin', sans-serif;
     font-weight: normal;
 }
-.embed-responsive-item{
-    width: 100% !important;
-    height: 438px !important;
-    background-color: white !important;"
-}
+
 .card{
     border: none !important;
 }
@@ -94,4 +90,19 @@ input::-webkit-input-placeholder {
 }
 .footerImg{
     height: 30vh;
+}
+h1{
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 700 !important;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.info{
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;
+}
+a.btn{
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 600;
 }
