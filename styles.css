@@ -106,3 +106,34 @@ a.btn{
     font-family: 'Libre Franklin', sans-serif;
     font-weight: 600;
 }
+.footerSection{
+    padding: 15px 0 15px 0;
+    margin-top: 8px;
+    border-top: 2px solid #edf0f2;;
+    border-bottom: 2px solid #edf0f2;;
+}
+ul{
+    padding-left:1px;
+}
+li {
+    list-style-type: none;
+}
+.footerLink{
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    font-size: 12px;
+    padding: 1px 0 1px 0;
+}
+.footerTitle{
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.footerText{
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    font-size: 12px;
+    text-align: justify;
+}
